@@ -1,10 +1,7 @@
 PROGRAM FDTDF90
-!May of 2012
-!Author: Jose Manuel Napoles Duarte (napolesd@cifus.uson.mx, napolesd@gmail.com)
-!Postdoctoral researcher at Departamento de Investigacion en Fisica de la Universidad de Sonora (DIFUS)
+
+!Author: Jose Manuel Napoles Duarte (napolesd@gmail.com)
 !Credit for evanescent source to Dr. Jorge A. Gaspar Armenta
-!This program has been written for the Nanotech 2012 tutorial on Plasmonics
-!It could be used, modified and shared without restriction.
 
 IMPLICIT NONE
 !--------------------------------------
